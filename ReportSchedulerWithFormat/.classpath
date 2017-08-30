@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path=""/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="scb/edw/bi/org.json.jar"/>
+	<classpathentry kind="lib" path="scb/edw/bi/org.apache.httpcomponents.httpclient_4.5.3.jar"/>
+	<classpathentry kind="lib" path="scb/edw/bi/org.apache.httpcomponents.httpcore_4.4.6.jar"/>
+	<classpathentry kind="lib" path="scb/edw/bi/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="scb/edw/bi/jdom-2.0.6.jar"/>
+	<classpathentry kind="lib" path="scb/edw/bi/jdom-2.0.6-javadoc.jar"/>
+	<classpathentry kind="lib" path="scb/edw/bi/commons-logging-1.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="scb/edw/bi/jdom-2.0.6-contrib.jar"/>
+	<classpathentry kind="lib" path="scb/edw/bi/jdom-2.0.6-junit.jar"/>
+	<classpathentry kind="lib" path="scb/edw/bi/jdom-2.0.6-sources.jar"/>
+	<classpathentry kind="output" path=""/>
+</classpath>
